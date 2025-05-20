@@ -83,7 +83,7 @@ python main.py
 📂 File Structure
 
 geolocation-app/
-├── main.py              # Main application script
+├── goolemap.py              # Main application script
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
